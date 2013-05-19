@@ -23,5 +23,5 @@ Gem::Specification.new do |s|
   s.add_development_dependency('jnunemaker-matchy', '~> 0.4.0')
   s.add_development_dependency('mocha', '~> 0.9')
   s.add_runtime_dependency('hashie', '~> 2.0')
-  s.add_runtime_dependency('httparty', '~> 0.6.1')
+  s.add_runtime_dependency('httparty', '~> 0.10')
 end
